@@ -1,26 +1,19 @@
-# 📬 Contact Form
+# Contact Form
 
-A simple and responsive **contact form** created using **HTML and CSS**.  
-Designed to be easily embedded into any website to collect user messages or inquiries.
+This is a simple and responsive contact form built using HTML and CSS.
 
----
+🔗 **Live Demo:** [https://html-css-contact-form.netlify.app](https://html-css-contact-form.netlify.app)
 
-## ✨ Features
+## Features
 
-- Responsive and mobile-friendly layout  
-- Clean, minimalistic design for easy integration  
-- Fully customizable using CSS  
+- Responsive design  
+- Clean and minimal layout  
+- Easy to customize  
+- Can be connected to a backend or third-party form service
 
----
+## How to Use
 
-## 🚀 How to Use
-
-1. Clone or download this repository  
-2. Customize the HTML and CSS files according to your needs  
-3. (Optional) Add backend or third-party service for form submission handling  
-4. Deploy the form on your website or web application  
-
----
-
-Feel free to modify and use this form as you like!  
-Contributions and suggestions are welcome.
+1. Download or clone this repository.  
+2. Open `index.html` and `style.css` to customize the form.  
+3. (Optional) Add a backend or form handling service to process submissions.  
+4. Deploy to your website.
